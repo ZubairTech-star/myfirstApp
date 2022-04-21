@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
             ),
           ),
           centerTitle: true,
-          backgroundColor: (Colors.pink),
+          backgroundColor: (Colors.black),
         ),
         body: const Center(child: Text("empty body")),
         floatingActionButton: FloatingActionButton(
